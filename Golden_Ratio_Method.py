@@ -35,5 +35,6 @@ for k in range (1,N):
         f2 = f1
         x1 = xalt + tau * (xust - xalt)
         f1 = f(x1)
-    
+
+# Deneme yazısı
 print("x1 değeri = {}  , x2 değeri ={} , f1 değeri ={}  , f2 değeri = {}".format(x1,x2,f1,f2))
